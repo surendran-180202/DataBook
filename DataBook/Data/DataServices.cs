@@ -1,6 +1,6 @@
 ﻿namespace DataBook.Data
 {
-    public class DataServices : IDataServices
+    internal class DataServices : IDataServices
     {
     }
 }
